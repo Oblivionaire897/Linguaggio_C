@@ -2,7 +2,7 @@
 
 int main(void){ 
     
-    //Definizione (e inizializzazione) di variabili. Tutte di itpo "int".
+    //Definizione (e inizializzazione) di variabili. Tutte di tipo "int".
     //C è case sensitive (A != a)
     int n1 = 0;
     int n2 = 0;

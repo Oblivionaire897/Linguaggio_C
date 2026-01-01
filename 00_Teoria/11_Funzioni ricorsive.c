@@ -7,9 +7,7 @@ ma diventa parte della soluzione finale.
 Una funzione ricorsiva ha sempre due elementi fondamentali:
 - Caso base: la condizione che interrompe la ricorsione.
 - Passo ricorsivo: la parte in cui la funzione richiama sé stessa con un input ridotto, avvicinandosi al caso base.
-*/
 
-/*
 Qui vedremo come esempio il calcolo del fattoriale di un numero.
 n! = n * (n-1) * (n-2) * ... * (n-n)!   con 0! = 1
 n! = n * (n-1)!
@@ -35,4 +33,4 @@ int main(void){
     printf("Il fattoriale di %d è %d", numero, fattoriale(numero));
 }
 
-//Consiglio l'esercizio 7
+// Fare l'esercizio 7

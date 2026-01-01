@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){ 
-    printf("Inseirisci due numeri separati da uno spazio e ti dirò qualcosa su di loro.");
+    printf("Inserisci due numeri separati da uno spazio e ti dirò qualcosa su di loro.");
 
     int n1 = 0;
     int n2 = 0;
@@ -47,4 +47,4 @@ Che differenza c'è tra il mettere più if o usare if e poi tanti else if? Mette
                                                                          if ... else if controllano una sola condizione e restituiscono un solo dato.
 */
 
-// Ora è possibile fare l'esercizio 1
+// Fare ora l'esercizio 1

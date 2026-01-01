@@ -15,5 +15,4 @@ int main(void){
     }
 }
 
-//Ora è possibile fare l'esercizio 2 e 3.
-//Nell'esercizio 2, vengono anche definitii i tre spazi del condice. Consiglio di guardarlo.
+// Fare ora gli esercizi 2, 3

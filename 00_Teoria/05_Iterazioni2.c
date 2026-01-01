@@ -15,4 +15,4 @@ Un ciclo for richiede (inizializzatore; condizione; aggiornamento).
     l'aggiornamento è un'operazione che viene ripetuta ogni volta che il ciclo finisce, prima di ricominciare l'iterazione.
 */
 
-//È possibile procedere con l'esercizio 4
+// È possibile procedere con gli esercizi 4 e 5
