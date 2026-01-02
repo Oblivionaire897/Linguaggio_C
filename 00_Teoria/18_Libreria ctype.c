@@ -1,4 +1,4 @@
-// Analizziamo le più importanti funzioni della libreria ctype
+// Introduciamo la libreria ctype e analizziamo alcune delle sue funzioni più importanti
 
 #include <ctype.h>
 #include <stdio.h>
