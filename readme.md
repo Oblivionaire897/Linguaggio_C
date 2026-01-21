@@ -17,20 +17,8 @@ La repository è organizzata nelle seguenti cartelle principali:
 ---
 
 ## 📁 Teoria
-La cartella **`00_Teoria`** contiene la spiegazione teorica del linguaggio C, suddivisa per argomenti progressivi.
-
-### Argomenti trattati
-- Introduzione e sequenze di escape
-- Variabili e tipi di dato
-- Condizioni e iterazioni
-- Funzioni e ricorsione
-- Array, stringhe e strutture dati
-- Puntatori e gestione della memoria
-- File I/O
-- Enum e Typedef
-
-### Caratteristiche
-Ogni file comprende codice funzionante con commenti dettagliati e al termine di ogni lezione sono indicati esercizi consigliati
+La cartella **`00_Teoria`** contiene la spiegazione teorica del linguaggio C, suddivisa per argomenti progressivi. Non ho seguito l'ordine di Baresi perché a mio parere in questo modo è leggermente più semplice.
+Ogni file comprende codice funzionante con commenti dettagliati e al termine di ogni lezione sono indicati esercizi consigliati.
 
 ---
 
@@ -46,6 +34,7 @@ La cartella **`01_Esercizi`** contiene esercizi numerati con soluzioni per conso
 
 ## 📁 Esercitazioni
 La cartella **`02_Esercitazioni`** raccoglie gli esercizi svolti durante le esercitazioni in classe, non organizzati per argomento specifico.
+Dopo aver completato teoria e esercizi, consiglio di passare direttamente alle esercitazioni consigliate dal prof.
 
 ---
 
